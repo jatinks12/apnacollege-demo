@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Repository
 <br>
-Author - Jatin kumar sharma
+Author - Jatin kumar sharma(cgc landran)
